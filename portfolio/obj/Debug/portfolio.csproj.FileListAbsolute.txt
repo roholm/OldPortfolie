@@ -1,0 +1,68 @@
+c:\users\cari3714\documents\visual studio 2015\Projects\portfolio\portfolio\bin\ApplicationInsights.config
+c:\users\cari3714\documents\visual studio 2015\Projects\portfolio\portfolio\bin\roslyn\csc.exe
+c:\users\cari3714\documents\visual studio 2015\Projects\portfolio\portfolio\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\cari3714\documents\visual studio 2015\Projects\portfolio\portfolio\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\cari3714\documents\visual studio 2015\Projects\portfolio\portfolio\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\cari3714\documents\visual studio 2015\Projects\portfolio\portfolio\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\cari3714\documents\visual studio 2015\Projects\portfolio\portfolio\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\cari3714\documents\visual studio 2015\Projects\portfolio\portfolio\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\cari3714\documents\visual studio 2015\Projects\portfolio\portfolio\bin\roslyn\System.Collections.Immutable.dll
+c:\users\cari3714\documents\visual studio 2015\Projects\portfolio\portfolio\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\cari3714\documents\visual studio 2015\Projects\portfolio\portfolio\bin\roslyn\vbc.exe
+c:\users\cari3714\documents\visual studio 2015\Projects\portfolio\portfolio\bin\roslyn\VBCSCompiler.exe
+c:\users\cari3714\documents\visual studio 2015\Projects\portfolio\portfolio\bin\roslyn\VBCSCompiler.exe.config
+c:\users\cari3714\documents\visual studio 2015\Projects\portfolio\portfolio\bin\portfolio.dll.config
+c:\users\cari3714\documents\visual studio 2015\Projects\portfolio\portfolio\bin\portfolio.dll
+c:\users\cari3714\documents\visual studio 2015\Projects\portfolio\portfolio\bin\portfolio.pdb
+c:\users\cari3714\documents\visual studio 2015\Projects\portfolio\portfolio\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\cari3714\documents\visual studio 2015\Projects\portfolio\portfolio\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\cari3714\documents\visual studio 2015\Projects\portfolio\portfolio\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\cari3714\documents\visual studio 2015\Projects\portfolio\portfolio\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\cari3714\documents\visual studio 2015\Projects\portfolio\portfolio\bin\Microsoft.AI.Web.dll
+c:\users\cari3714\documents\visual studio 2015\Projects\portfolio\portfolio\bin\Microsoft.AI.WindowsServer.dll
+c:\users\cari3714\documents\visual studio 2015\Projects\portfolio\portfolio\bin\Microsoft.ApplicationInsights.dll
+c:\users\cari3714\documents\visual studio 2015\Projects\portfolio\portfolio\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\cari3714\documents\visual studio 2015\Projects\portfolio\portfolio\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\cari3714\documents\visual studio 2015\Projects\portfolio\portfolio\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\cari3714\documents\visual studio 2015\Projects\portfolio\portfolio\bin\Microsoft.AI.Web.xml
+c:\users\cari3714\documents\visual studio 2015\Projects\portfolio\portfolio\bin\Microsoft.AI.WindowsServer.xml
+c:\users\cari3714\documents\visual studio 2015\Projects\portfolio\portfolio\bin\Microsoft.ApplicationInsights.xml
+c:\users\cari3714\documents\visual studio 2015\Projects\portfolio\portfolio\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\cari3714\documents\visual studio 2015\Projects\portfolio\portfolio\obj\Debug\portfolio.csprojResolveAssemblyReference.cache
+c:\users\cari3714\documents\visual studio 2015\Projects\portfolio\portfolio\obj\Debug\portfolio.dll
+c:\users\cari3714\documents\visual studio 2015\Projects\portfolio\portfolio\obj\Debug\portfolio.pdb
+C:\Users\cars\Documents\Carina Web\Projects\portfolio\portfolio\bin\ApplicationInsights.config
+C:\Users\cars\Documents\Carina Web\Projects\portfolio\portfolio\bin\roslyn\csc.exe
+C:\Users\cars\Documents\Carina Web\Projects\portfolio\portfolio\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\cars\Documents\Carina Web\Projects\portfolio\portfolio\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\cars\Documents\Carina Web\Projects\portfolio\portfolio\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\cars\Documents\Carina Web\Projects\portfolio\portfolio\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\cars\Documents\Carina Web\Projects\portfolio\portfolio\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\cars\Documents\Carina Web\Projects\portfolio\portfolio\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\cars\Documents\Carina Web\Projects\portfolio\portfolio\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\cars\Documents\Carina Web\Projects\portfolio\portfolio\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\cars\Documents\Carina Web\Projects\portfolio\portfolio\bin\roslyn\vbc.exe
+C:\Users\cars\Documents\Carina Web\Projects\portfolio\portfolio\bin\roslyn\VBCSCompiler.exe
+C:\Users\cars\Documents\Carina Web\Projects\portfolio\portfolio\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\cars\Documents\Carina Web\Projects\portfolio\portfolio\bin\portfolio.dll.config
+C:\Users\cars\Documents\Carina Web\Projects\portfolio\portfolio\bin\portfolio.dll
+C:\Users\cars\Documents\Carina Web\Projects\portfolio\portfolio\bin\portfolio.pdb
+C:\Users\cars\Documents\Carina Web\Projects\portfolio\portfolio\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\cars\Documents\Carina Web\Projects\portfolio\portfolio\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\cars\Documents\Carina Web\Projects\portfolio\portfolio\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\cars\Documents\Carina Web\Projects\portfolio\portfolio\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\cars\Documents\Carina Web\Projects\portfolio\portfolio\bin\Microsoft.AI.Web.dll
+C:\Users\cars\Documents\Carina Web\Projects\portfolio\portfolio\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\cars\Documents\Carina Web\Projects\portfolio\portfolio\bin\Microsoft.ApplicationInsights.dll
+C:\Users\cars\Documents\Carina Web\Projects\portfolio\portfolio\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\cars\Documents\Carina Web\Projects\portfolio\portfolio\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\cars\Documents\Carina Web\Projects\portfolio\portfolio\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\cars\Documents\Carina Web\Projects\portfolio\portfolio\bin\Microsoft.AI.Web.xml
+C:\Users\cars\Documents\Carina Web\Projects\portfolio\portfolio\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\cars\Documents\Carina Web\Projects\portfolio\portfolio\bin\Microsoft.ApplicationInsights.xml
+C:\Users\cars\Documents\Carina Web\Projects\portfolio\portfolio\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\cars\Documents\Carina Web\Projects\portfolio\portfolio\obj\Debug\portfolio.csprojAssemblyReference.cache
+C:\Users\cars\Documents\Carina Web\Projects\portfolio\portfolio\obj\Debug\portfolio.csproj.CoreCompileInputs.cache
+C:\Users\cars\Documents\Carina Web\Projects\portfolio\portfolio\obj\Debug\portfolio.csproj.CopyComplete
+C:\Users\cars\Documents\Carina Web\Projects\portfolio\portfolio\obj\Debug\portfolio.dll
+C:\Users\cars\Documents\Carina Web\Projects\portfolio\portfolio\obj\Debug\portfolio.pdb

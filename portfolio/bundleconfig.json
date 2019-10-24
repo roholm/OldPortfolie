@@ -1,0 +1,38 @@
+[
+  {
+    "outputFileName": "css/black-orange-theme.min.css",
+    "inputFiles": [
+      "css/black-orange-theme.css"
+    ]
+  },
+  {
+    "outputFileName": "css/bootstrap.min.css",
+    "inputFiles": [
+      "css/bootstrap.css"
+    ]
+  },
+  {
+    "outputFileName": "css/font-awesome.min.css",
+    "inputFiles": [
+      "css/font-awesome.css"
+    ]
+  },
+  {
+    "outputFileName": "js/bootstrap.min.js",
+    "inputFiles": [
+      "js/bootstrap.js"
+    ]
+  },
+  {
+    "outputFileName": "css/main.min.css",
+    "inputFiles": [
+      "css/main.css"
+    ]
+  },
+  {
+    "outputFileName": "js/alder.min.js",
+    "inputFiles": [
+      "js/alder.js"
+    ]
+  }
+]
